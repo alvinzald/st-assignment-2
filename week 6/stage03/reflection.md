@@ -1,0 +1,5 @@
+## Reflection
+
+What modelling decision was hardest? Where did AI over-design? What evidence supported your final choices?
+
+> The hardest modelling decision was practitioner availability because the brief said availability needed to be visible, but it did not explain how it should be structured. I modelled it as a list of time slots based on my experience with UCMC. The given AI suggestions, such as the managers seemed to be overdesigned when the functions that they have are already covered by the classes they are supposed to manage. My final choices were mainly supported by looking back at the case study and previous documents, which focused on keeping the first version simple and only solving the confirmed problems around patient records, practitioner availability and appointment management.
