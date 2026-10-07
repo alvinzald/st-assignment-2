@@ -1,0 +1,8 @@
+from services.appointment_service import AppointmentService
+from persistence.in_memory_appointment_repository import (InMemoryAppointmentRepository)
+from presentation.console_ui import run
+
+appointment_repository = InMemoryAppointmentRepository()
+appointment_service = AppointmentService(appointment_repository)
+
+run(appointment_service)
